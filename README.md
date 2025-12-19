@@ -69,7 +69,7 @@ Developed a dynamic dashboard to allow recruiters and analysts to filter surviva
 
 ## 🖼️ Dashboard Preview
 
-![Dashboard Screenshot]()
+![Dashboard Screenshot](https://github.com/Indran-02/Titanic-Survival-Rate-Analysis/blob/main/Screenshot%202025-12-17%20164233.png)
 ---
 
 ### 🤝 Connect with Me
