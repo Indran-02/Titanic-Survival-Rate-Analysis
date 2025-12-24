@@ -1,5 +1,9 @@
 # Titanic Survival Analysis: End-to-End Data Pipeline
 
+## 🖼️ Dashboard Preview
+
+![Dashboard Screenshot](https://github.com/Indran-02/Titanic-Survival-Rate-Analysis/blob/main/Titanic%20Survival%20Analysis%20Dashboard.png)
+
 ## 📌 Project Overview
 
 This project performs a deep dive into the Titanic dataset to uncover the primary drivers of survival. It demonstrates a complete data lifecycle: from raw data cleaning and feature engineering in **Python**, through relational data querying in **PostgreSQL**, to interactive storytelling in **Power BI**.
@@ -40,6 +44,10 @@ Using pgAdmin4, I performed advanced aggregation to extract statistical insights
 
 ### 3. Interactive Visualization (Power BI)
 
+## 🖼️ Dashboard Preview
+
+![Dashboard Screenshot](https://github.com/Indran-02/Titanic-Survival-Rate-Analysis/blob/main/Titanic%20Survival%20Analysis%20Dashboard.png)
+
 Developed a dynamic dashboard to allow recruiters and analysts to filter survival outcomes by:
 
 * Gender and Class interaction.
@@ -62,9 +70,4 @@ Developed a dynamic dashboard to allow recruiters and analysts to filter surviva
 2. **SQL:** Import the resulting table into PostgreSQL and run `sql/queries.sql` for deep-dive stats.
 3. **Power BI:** Open `dashboard/titanic_dashboard.pbix` and point the data source to the `titanic_clean.csv`.
 
----
-
-## 🖼️ Dashboard Preview
-
-![Dashboard Screenshot](https://github.com/Indran-02/Titanic-Survival-Rate-Analysis/blob/main/Screenshot%202025-12-17%20164233.png)
 ---
